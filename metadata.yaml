@@ -1,0 +1,24 @@
+_repo: The-Life-of-George-Borrow_3481
+creator:
+  author:
+    agent_name: Jenkins, Herbert George
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '1211'
+    url: http://www.gutenberg.org/2009/agents/1211
+    wikipedia: http://en.wikipedia.org/wiki/Herbert_George_Jenkins
+description: ''
+gutenberg_issued: '2002-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Borrow, George, 1803-1881'
+- !lcc 'PR'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+title: The Life of George Borrow
+url: http://www.gutenberg.org/ebooks/3481
