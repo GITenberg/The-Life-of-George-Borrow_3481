@@ -1,5 +1,5 @@
 _repo: The-Life-of-George-Borrow_3481
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: archival
   image_path: 3481-h/images/coverb.jpg
@@ -26,5 +26,6 @@ subjects:
 - !lcsh 'Borrow, George, 1803-1881'
 - !lcc 'PR'
 - !lcsh 'Authors, English -- 19th century -- Biography'
+- GITenberg
 title: The Life of George Borrow
 url: http://www.gutenberg.org/ebooks/3481
